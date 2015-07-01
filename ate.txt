@@ -1,2 +1,3 @@
 fichier txt
 changement en ligne
+changement local
